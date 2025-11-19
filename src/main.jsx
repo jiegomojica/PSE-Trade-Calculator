@@ -1,6 +1,6 @@
 import React from 'react'
 import { createRoot } from 'react-dom/client'
-import App from './Tradecalc.jsx'
+import App from './TradeCalc.jsx'
 import './index.css'
 
 createRoot(document.getElementById('root')).render(
