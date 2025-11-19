@@ -1,4 +1,4 @@
-# SM Smart City — Residual Land Valuation Calculator
+# PSE Trade Calculator
 
 React + Vite + Tailwind build for Vercel.
 
